@@ -1,0 +1,1 @@
+# sensor-bad-words
